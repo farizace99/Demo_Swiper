@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Swiper</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment">This is the first Fragment</string>
+    <string name="second_fragment">This is the second Fragment</string>
+
+</resources>
